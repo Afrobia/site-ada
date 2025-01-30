@@ -1,3 +1,14 @@
-# Site-ada
+# Curso front-end - EuProgramo
 
-Criando um site do zero, estudando CSS, HTML e JS voltado totaalmente pro front end
+## Objetivo
+Criar site  simples do zero, estudando CSS, HTML e JS voltado totalmente pro front end. Sem framework
+
+## Atividade
+
+- Estruturar o site com HTML
+- Criar e vincular estilo com CSS
+- Adicionar interatividade simples com JavaScript
+
+## Site
+
+ link: https://afrobia.github.io/site-adalovelace-euprogramo/
